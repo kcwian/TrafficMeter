@@ -6,8 +6,8 @@ Program counts passing: cars, trucks, pedestrains, bikers and trams. It uses b a
 
 ### Build
 ``` console
-$ git pull https://github.com/kcwian/TrafficMeter.git
-$ cd TrafficMeter && mkdir build $$ cd build
+$ git clone https://github.com/kcwian/TrafficMeter.git
+$ cd TrafficMeter && mkdir build && cd build
 $ cmake ..
 $ make
 ```
