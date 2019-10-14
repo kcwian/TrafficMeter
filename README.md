@@ -17,3 +17,6 @@ $ make
 $ cd ..
 $ ./TrafficMeter
 ```
+
+### YouTube video:
+[![Alt text](https://img.youtube.com/vi/mfmpfNcvzMk/2.jpg)](https://youtu.be/mfmpfNcvzMk)
